@@ -8,4 +8,4 @@ It fetches data from the OpenWeatherMap.
 <br>
 Made with HTML, CSS, JS, NODE.JS, EXPRESS.JS.
 
-<img width="960" alt="clouds temp" src="https://user-images.githubusercontent.com/95496933/223763259-28e477cc-cd2e-4db0-8b40-081c2b121f11.png">
+all the node_modules has not been shared above if your want them ping me up.
