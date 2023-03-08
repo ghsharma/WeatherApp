@@ -1,0 +1,57 @@
+body{
+    background-image:url(image/clouds.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+h1{
+    text-align: center; 
+}
+
+form{
+
+    font-size: xx-large;
+
+    margin-top: 50vh;;
+    text-align: center;
+}
+:placeholder-shown{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+}
+
+::placeholder:hover{
+    background-color: aquamarine;
+}
+
+input{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(255, 255, 255);
+    color: rgb(6, 52, 93);
+    text-align: center;
+    font-size: xx-large;
+    height: 10vh;
+    width: 60vw;
+    border-radius: 90px;
+}
+
+button{
+
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 500;
+    color: rgb(34, 74, 74);
+    font-size:x-large;
+    border-radius: 30px;
+    height: 10vh;
+    width: 15vw;
+}
+
+button:hover{
+
+    background-color: rgb(29, 133, 168);
+    color: rgb(255, 255, 255);
+    transition: .9s;
+}
+
+
