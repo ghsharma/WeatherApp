@@ -1,6 +1,9 @@
 # Weather App
 
 This Weather App is a web-based application that allows users to obtain weather information for any location in the world. By simply inputting the name of a city into the input box, users can find out its current temperature, wind speed, and sky conditions. The app fetches data from the OpenWeatherMap API.
+<hr>
+<img width="829" alt="ss" src="https://github.com/ghsharma/WeatherApp/assets/95496933/e4b9b883-97aa-4ade-a8bc-3737ed2b4702">
+
 
 ## Getting Started
 
